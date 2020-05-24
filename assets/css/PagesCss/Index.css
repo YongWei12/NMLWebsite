@@ -1,0 +1,22 @@
+div .fit{
+
+}
+div .fit img{
+    z-index: -1;
+    overflow: hidden;
+    display:block;
+    position: relative;
+}
+
+
+#TitleContainer{
+    text-align: center;
+}
+
+#ProjectTitle{
+    font-size: 50px;
+}
+.fit img{
+    margin: auto;
+
+}
